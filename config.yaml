@@ -1,12 +1,12 @@
-baseURL: https://example.com
-languageCode: en-us
-title: Hugo
+baseURL: https://georg-naver.netlify.app
+languageCode: sv-SE
+title: Georg
 theme: "hugo-theme-mini"
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch), default 'en'
 defaultContentLanguage: en
 
-# !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
+# !!! exampleSite only, you may need to delete the line: `themesDir: ../../`
 
 hasCJKLanguage: true
 permalinks:
@@ -20,7 +20,7 @@ disqusShortname: your-disqus-shortname
 markup:
   highlight:
     guessSyntax: true
-    style: emacs
+    style: github
   tableOfContents:
     endLevel: 3
     ordered: false
@@ -38,7 +38,7 @@ social:
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: Georg
   # Author biography
   bio: Software Engineer
   # Site Description, used in HTML meat
@@ -64,7 +64,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '' 
+  copyright: ''
 
   # Extra links in navigation
   links:
