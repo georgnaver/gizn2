@@ -24,3 +24,9 @@ oplot <- ggplot(Orange, aes(x = age,
 oplot
 ```
 
+Text
+
+```{r echo=FALSE, warning=FALSE}
+summary(Orange)
+```
+
