@@ -20,7 +20,7 @@ disqusShortname: your-disqus-shortname
 markup:
   highlight:
     guessSyntax: true
-    style: github
+    style: emacs
   tableOfContents:
     endLevel: 3
     ordered: false
