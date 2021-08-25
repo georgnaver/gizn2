@@ -29,9 +29,9 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
-  twitter: your-github-link
-  stackoverflow: your-github-link
+  github: https://github.com/georgnaver/
+  # twitter: your-github-link
+  # stackoverflow: your-github-link
   # facebook: your-facebook-link
 
 
@@ -40,7 +40,7 @@ params:
   # Site Author
   author: Georg
   # Author biography
-  bio: Software Engineer
+  bio: En blog i R
   # Site Description, used in HTML meat
   description: My Blog
 
@@ -58,7 +58,7 @@ params:
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: true
+  showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
