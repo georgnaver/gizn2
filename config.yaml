@@ -1,6 +1,6 @@
 baseURL: https://georg-naver.netlify.app
 languageCode: sv-SE
-title: Georg
+title: gizn
 theme: "hugo-theme-mini"
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch), default 'en'
