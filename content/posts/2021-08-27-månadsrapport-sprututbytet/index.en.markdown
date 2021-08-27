@@ -16,6 +16,8 @@ draft: no
 
 Den senaste månaden (2021-06-02 till 2021-07-02) har 42 nya patienter registrerat sig vid sprututbytet i Stockholm. Av dessa är 16 (38.1%) kvinnor och 25 (59.52%) män (information om kön saknas hos 1 patienter). 27 (64.29%) är födda i Sverige, 13 (30.95%) är födda i annat land än Sverige (information om födelseland saknas hos 2 patienter).
 
+<!--more-->
+
 0 patienter har registrerats vara avlidna inom samma tidsperiod. 
 
 ### Registrering

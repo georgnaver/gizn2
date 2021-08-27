@@ -114,6 +114,8 @@ dodsenastemanad_antal_avlidna <- nrow(subset(dodsenastemanad_reg))
 
 Den senaste månaden (`r manadsperiod_min` till `r manadsperiod_max`) har `r senastemanad_antal_inskrivna` nya patienter registrerat sig vid sprututbytet i Stockholm. Av dessa är `r senastemanad_antal_kvinna` (`r senastemanad_procent_kvinna`%) kvinnor och `r senastemanad_antal_man` (`r senastemanad_procent_man`%) män (information om kön saknas hos `r senastemanad_antal_NAkon` patienter). `r senastemanad_antal_sverige` (`r senastemanad_procent_sverige`%) är födda i Sverige, `r senastemanad_antal_utrikes` (`r senastemanad_procent_utrikes`%) är födda i annat land än Sverige (information om födelseland saknas hos `r senastemanad_antal_NAfl` patienter).
 
+<!--more-->
+
 `r dodsenastemanad_antal_avlidna` patienter har registrerats vara avlidna inom samma tidsperiod. 
 
 ### Registrering
