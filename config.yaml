@@ -25,6 +25,9 @@ markup:
     endLevel: 3
     ordered: false
     startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
 
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
@@ -64,7 +67,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: ''
+  copyright: '{params.author}'
 
   # Extra links in navigation
   links:
@@ -81,3 +84,8 @@ params:
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js
+
+#markup:
+#  goldmark:
+#    renderer:
+#      unsafe: true
