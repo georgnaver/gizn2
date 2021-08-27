@@ -1,0 +1,50 @@
+home:
+  other: Hem
+
+archive:
+  other: Arkiv
+
+tags:
+  other: Taggar
+
+about:
+  other: Om
+
+subscribe:
+  other: RSS
+
+404title:
+  other: 404 - Page Not Found
+
+404subtitle:
+  other: The content you're looking for doesn't seem to exist.
+
+readMore:
+  other: Läs mer
+
+minuteRead:
+  other: "{{ .ReadingTime }} minuters läsning"
+
+publishDate:
+  other: '{{ .PublishDate.Format "Jan 2, 2006" }}'
+
+publishDateFull:
+  other: '{{ .PublishDate.Format "Jan 2, 2006" }}'
+
+wordCount:
+  one: "{{ .WordCount }} ord"
+  other: "{{ .WordCount }} ord"
+
+postsNewer:
+  other: Äldre inlägg
+
+postsOlder:
+  other: Nyare inlägg
+
+poweredBy:
+  other: >-
+    Powered by <a href='http://www.gohugo.io/'>Hugo</a> Theme By <a
+    href='https://github.com/nodejh/hugo-theme-cactus-plus'>nodejh</a>
+
+publishDateShort:
+  other: '{{ .PublishDate.Format "Jan 2" }}'
