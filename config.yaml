@@ -12,7 +12,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-googleAnalytics: your-google-analytics-id
+googleAnalytics: G-4NNGC0ZG3J
 disqusShortname: your-disqus-shortname
 
 # Hugo Configure Markup
@@ -67,7 +67,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: "Georg - 2021"
+  copyright: "Georg © 2021"
 
   # Extra links in navigation
   links:
