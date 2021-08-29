@@ -1,4 +1,4 @@
-baseURL: https://gizn.se
+baseURL: https://gizn.netlify.app
 languageCode: sv-SE
 title: gizn
 theme: "hugo-theme-mini"
