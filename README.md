@@ -1,6 +1,6 @@
 # Min variant av [Hugo Theme mini](https://github.com/nodejh/hugo-theme-mini) 
 
-# Using
+## Using
 
 1. [Install Hugo](https://gohugo.io/overview/installing/)
 2. Clone this repository
