@@ -1,4 +1,4 @@
-baseURL: https://gizn.netlify.app
+baseURL: https://gizn.se
 languageCode: sv-SE
 title: gizn
 theme: "hugo-theme-mini"
@@ -12,7 +12,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-googleAnalytics: G-4NNGC0ZG3J
+googleAnalytics: UA-206161551-1
 disqusShortname: your-disqus-shortname
 
 # Hugo Configure Markup
